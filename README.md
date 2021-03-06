@@ -1,0 +1,2 @@
+# csore
+latihan menulis score
